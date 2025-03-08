@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 face_comparer/__init__.py
 face_comparer/face_comparer.py
